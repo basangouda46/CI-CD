@@ -14,6 +14,6 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: build
-      run: make -d
+      run: make all
     - name: run
       run: ./a.out
