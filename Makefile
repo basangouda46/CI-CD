@@ -1,2 +1,2 @@
 main: main.c
-  cc main.c -o main 
+\tcc main.c -o main 
