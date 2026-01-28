@@ -13,8 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: configure
-      run: cc main.c
-    - name: make
-      run: ./a.out
+    - name: build
+      run: make
+    - name: run
+      run: ./main
  
