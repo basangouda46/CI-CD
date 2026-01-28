@@ -8,7 +8,7 @@ printf("hello world");
 
 result = 5+5;
 
-printf("%d\n", result);
+printf("result = %d\n", result);
 
 return 0;
 }
