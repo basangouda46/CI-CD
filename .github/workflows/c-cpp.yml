@@ -16,4 +16,4 @@ jobs:
     - name: build
       run: make -d
     - name: run
-      run: ./main
+      run: ./a.out
