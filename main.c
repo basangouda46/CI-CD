@@ -4,7 +4,7 @@ int main(){
 
 int result;
 
-printf("hello world");
+printf("hello world\n");
 
 result = 5+5;
 
